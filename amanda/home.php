@@ -22,7 +22,8 @@
     <div class="main" style="text-align: center;">
     <form action="cadaluno.php" method="post">
     <button type="submit" value="sim" style="margin-left: 20px; height: 75px; width:200px; background-color:white;">
-        <p>Realizar Cadastro</p>
+        <p>Cadastrar
+</p>
         </button> 
     </form>
 
